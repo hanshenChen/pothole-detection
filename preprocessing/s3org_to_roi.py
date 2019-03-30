@@ -106,14 +106,3 @@ def org_to_roilabel(in_txtfile,out_txtfile,in_imgpath,xscale=4.6,yscale=4.6):
 #for test
 #inPath = "E:\\@pothole_dataset\\pothole_org\\data\\train\\positive\\";
 #disp_imgroi(inPath)
-
-inpath="E:\\@pothole_dataset\\pothole_org\\"
-outpath="D:\\createset\\roi\\"
-#print("finish roiimg invert num:",org_to_roiimg(inpath+"train\\positive\\",outpath+"train\\positive\\"))
-#print("finish roiimg invert num:",org_to_roiimg(inpath+"train\\negative\\",outpath+"train\\negative\\"))
-#print("finish roiimg invert num:",org_to_roiimg(inpath+"test\\positive\\",outpath+"test\\positive\\"))
-#print("finish roiimg invert num:",org_to_roiimg(inpath+"test\\negative\\",outpath+"test\\negative\\"))
-
-#in_txtfile='E:\\@pothole_dataset\\pothole_org\\labels_positive_categorical.txt'
-#out_txtfile='E:\\@pothole_dataset\\pothole_org\\train_labels_positive_roiboxs.txt'
-#org_to_roilabel(in_txtfile,out_txtfile,inpath)
