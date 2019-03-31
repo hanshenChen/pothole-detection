@@ -22,7 +22,7 @@ it was not design in accordance with the priciples and norms of software enginee
 
 ## Usage
 ![Image](https://github.com/hanshenChen/pothole-detection/tree/master/preprocessing/flowchart.jpg)
-
+![Image](https://github.com/hanshenChen/pothole-detection/tree/master/preprocessing/flowchart.png)
 ### step1: create the dataset_roi( roi images of orginal dataset )
 The re-organized dataset are created by a simple preprocessing operation.
 
