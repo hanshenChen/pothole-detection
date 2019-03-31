@@ -11,14 +11,14 @@ it was not design in accordance with the priciples and norms of software enginee
 - python
 - Pothole dataset: <br>
    The dataset(each image is 800 °¡ 600 in JPG format) was first released in the Data Science Hackathon, a computer vision challenge sponsored by IBM,the Machine Intelligence Institute of Africa, and Cortex Logic, which took place in Johannesburg in September 2017. <br>
-   you can download the dataset from[Training & Test Data and Python Notebooks](https://drive.google.com/open?id=0B1IZ6xxwxyvTcWNOWHAxeVgyTlU)<br>
+   you can download the dataset from [Training & Test Data and Python Notebooks](https://drive.google.com/open?id=0B1IZ6xxwxyvTcWNOWHAxeVgyTlU)<br>
    <br>
    The orginal images(each image is 3680 °¡ 2760 in JPG format) was first released in paper:<br>
    [1] S. Nienaber, M.J. Booysen, R.S. Kroon, °∞Detecting potholes using simple image processing<br>
        techniques and real-world footage°±, SATC, July 2015, Pretoria, South Africa.<br>
    [2] S. Nienaber, R.S. Kroon, M.J. Booysen , °∞A Comparison of Low-Cost Monocular Vision Techniques<br>
        for Pothole Distance Estimation°±, IEEE CIVTS, December 2015, Cape Town, South Africa.<br>
-   you can download the orginal image from [here](http://goo.gl/Uj38Sf)Ã·»°¬Î£∫va7g<br>
+   you can download the orginal image from [here](http://goo.gl/Uj38Sf)<br>
 
 ## Usage
 ![Image text](https://github.com/hanshenChen/pothole-detection/tree/master/preprocessing/flowchart.jpg)
