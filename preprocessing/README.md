@@ -7,8 +7,7 @@ The public experimental code has been changed a lot of times in doing the experi
 it was not design in accordance with the priciples and norms of software engineering. 
 
 ## Requirements
-- opencv3
-- python
+- Opencv3
 - Pothole dataset: <br>
    The dataset(each image is 800 ¡Á 600 in JPG format) was first released in the Data Science Hackathon, a computer vision challenge sponsored by IBM,the Machine Intelligence Institute of Africa, and Cortex Logic, which took place in Johannesburg in September 2017. <br>
    you can download the dataset from [Training & Test Data and Python Notebooks](https://drive.google.com/open?id=0B1IZ6xxwxyvTcWNOWHAxeVgyTlU)<br>
@@ -18,7 +17,6 @@ it was not design in accordance with the priciples and norms of software enginee
        techniques and real-world footage¡±, SATC, July 2015, Pretoria, South Africa.<br>
    [2] S. Nienaber, R.S. Kroon, M.J. Booysen , ¡°A Comparison of Low-Cost Monocular Vision Techniques<br>
        for Pothole Distance Estimation¡±, IEEE CIVTS, December 2015, Cape Town, South Africa.<br>
-   you can download the orginal image from [here](http://goo.gl/Uj38Sf)<br>
 
 ## Usage
 ![Image](./flowchart.jpg)
@@ -36,7 +34,4 @@ The re-organized dataset are created by a simple preprocessing operation.
 
 ### step3: create the dataset_patches for training the PCNN
 1¡¢run preprocessing/create_patch.py to create the patch dataset.
-
-### Or: The re-organized dataset can directly downloaded from [here](https://pan.baidu.com/s/1XLpablhy4xHKxNVZCoXrPA) <br>
-
 
